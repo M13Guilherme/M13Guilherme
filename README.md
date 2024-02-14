@@ -1,6 +1,7 @@
 # Olá, eu sou o Mike 🤙
 
 Engatinhando na área de Tecnologia, iniciando cursos de lógica de programação, GitHub e linguagens.
+Todos eles utilizando a plataforma da Alura.
 
 
 ## 💻 Estudos 📚
