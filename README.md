@@ -10,13 +10,6 @@ Todos eles utilizando a plataforma da Alura.
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-Atualmente navegando entre os sentimentos de:
-
-😎	ESTOU ENTENDENDO TUDO, É LÓGICA 😎 
-
-💩 MEU DEUS, EU NÃO NASCI PRA ISSO 💩
-
-buuuuut, SEGUIMOS 🦾
 ## 🌎 Minhas Redes 🌐	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-guilherme-18422b285/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/M13Guilherme/)
